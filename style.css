@@ -86,7 +86,7 @@ div.wrapper {
   height: 490px;
   background-color: white;
   border-radius: .5em;
-  box-shadow: 1px 1px 2em var(--light-font-color);
+  box-shadow: 1px 10px 2em var(--light-font-color);
 }
 
 div.second-part {
